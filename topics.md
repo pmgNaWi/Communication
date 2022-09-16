@@ -15,5 +15,6 @@ in the last class you came up with mutliple topics that could be focus of your w
 - transfer of sound through wire
 - nonverbal communication
 - sensoric devices (mashine-human-communication)
+- sign language -> leel
 
 additionally we will learn to write using the MarkDown format for document formatting.
