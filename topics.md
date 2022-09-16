@@ -7,14 +7,13 @@ in the last class you came up with mutliple topics that could be focus of your w
 - world wide communication 
 - differences in languages
 - communication of animals  -> lilu
-- communication of plants -> karma
-- human hearing -> mus
-- acoustics of football stadiums -> bje
-- music —> Joerik 
+- communication of plants -> 
+- human hearing
+- acoustics
+- music —> Jo
 - amplification -> alileo
 - transfer of sound through wire
 - nonverbal communication
 - sensoric devices (mashine-human-communication)
-- sign language -> leel
 
 additionally we will learn to write using the MarkDown format for document formatting.
