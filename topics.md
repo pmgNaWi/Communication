@@ -4,10 +4,10 @@ in the last class you came up with mutliple topics that could be focus of your w
 
 - vocal chords
 - scientific wirting/communication about science
-- world wide communication
+- world wide communication 
 - differences in languages
-- communication of animals
-- communication of plants
+- communication of animals  -> lilu
+- communication of plants -> 
 - human hearing
 - acoustics
 - music
