@@ -7,9 +7,9 @@ in the last class you came up with mutliple topics that could be focus of your w
 - world wide communication 
 - differences in languages
 - communication of animals  -> lilu
-- communication of plants -> 
-- human hearing
-- acoustics
+- communication of plants -> karma
+- human hearing -> mus
+- acoustics of football stadiums -> bje
 - music —> Joerik 
 - amplification -> alileo
 - transfer of sound through wire
