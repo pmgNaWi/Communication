@@ -16,7 +16,7 @@ in the last class you came up with mutliple topics that could be focus of your w
 - nonverbal communication -> clem
 - sensoric devices (mashine-human-communication)
 - sign language -> leel
-- tin can telephone
+- tin can telephone -> af
 - the first telephone
 
 additionally we will learn to write using the MarkDown format for document formatting.
