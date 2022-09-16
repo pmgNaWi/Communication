@@ -11,7 +11,7 @@ in the last class you came up with mutliple topics that could be focus of your w
 - human hearing
 - acoustics
 - music
-- amplification
+- amplification -> alileo
 - transfer of sound through wire
 - nonverbal communication
 - sensoric devices (mashine-human-communication)
