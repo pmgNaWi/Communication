@@ -4,13 +4,13 @@ in the last class you came up with mutliple topics that could be focus of your w
 
 - vocal chords
 - scientific wirting/communication about science
-- world wide communication 
+- world wide communication -> jothy
 - differences in languages -> javi
 - communication of animals  -> lilu
 - communication of plants -> karma
 - human hearing -> mus
 - acoustics of football stadiums -> bje
-- music -> jothy
+- music -> lelo
 - amplification -> alileo
 - transfer of sound through wire
 - nonverbal communication -> clem
