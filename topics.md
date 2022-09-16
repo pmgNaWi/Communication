@@ -5,16 +5,15 @@ in the last class you came up with mutliple topics that could be focus of your w
 - vocal chords
 - scientific wirting/communication about science
 - world wide communication 
-- differences in languages -> javi
+- differences in languages
 - communication of animals  -> lilu
-- communication of plants -> karma
-- human hearing -> mus
-- acoustics of football stadiums -> bje
-- music -> jothy
+- communication of plants -> 
+- human hearing
+- acoustics
+- music —> jothy
 - amplification -> alileo
 - transfer of sound through wire
 - nonverbal communication
 - sensoric devices (mashine-human-communication)
-- sign language -> leel
 
 additionally we will learn to write using the MarkDown format for document formatting.
