@@ -8,10 +8,10 @@ in the last class you came up with mutliple topics that could be focus of your w
 - differences in languages
 - communication of animals  -> lilu
 - communication of plants -> karma
-- human hearing
+- human hearing 
 - acoustics
-- music
-- amplification
+- music -> lelo
+- amplification -> alileo
 - transfer of sound through wire
 - nonverbal communication
 - sensoric devices (mashine-human-communication)
