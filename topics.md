@@ -2,10 +2,10 @@
 
 in the last class you came up with mutliple topics that could be focus of your work in "communicatoion and science".
 
-- vocal chords
+- vocal chords/human voice -> javi
 - scientific wirting/communication about science
 - world wide communication -> jothy
-- differences in languages -> javi
+- differences in languages
 - communication of animals  -> lilu
 - communication of plants -> karma
 - human hearing -> mus
